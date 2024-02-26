@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" filepath="$PROJECT_DIR$/ClassesAndObjects/ClassesAndObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escape/Escape.iml" filepath="$PROJECT_DIR$/Escape/Escape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics.iml" filepath="$PROJECT_DIR$/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Datatype/Java Datatype.iml" filepath="$PROJECT_DIR$/Java Datatype/Java Datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Datatype/OOPs_Concept/OOPs_Concept.iml" filepath="$PROJECT_DIR$/Java Datatype/OOPs_Concept/OOPs_Concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
